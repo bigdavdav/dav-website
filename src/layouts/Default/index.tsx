@@ -9,11 +9,11 @@ export function DefaultLayout() {
 
   function createTexts(location: string) {
     if ( location == "/") {
-      return "Bob the goat!"
+      return "Welcome to my website."
     } else if ( location == "/about-me" ) {
       return "Why don't you learn a bit more about me!"
     } else if ( location == "/projects" ) {
-      return "Have a look at some of my projects(Not fully functional yet)."
+      return "Have a look at some of my projects(Not fully functional yet, paul)."
     } else {
       return "What the sigma?"
     }
