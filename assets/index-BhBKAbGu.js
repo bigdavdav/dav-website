@@ -287,4 +287,4 @@ Error generating stack: `+l.message+`
   span {
     font-size: 1rem;
   }
-`;function zv(){return L.jsxs(B1,{theme:Nv,children:[L.jsxs(Fm,{basename:"/dav-website",children:[L.jsx(jv,{}),L.jsx(Lv,{})]}),L.jsx(Rv,{})]})}wd(document.getElementById("root")).render(L.jsx(_.StrictMode,{children:L.jsx(zv,{})}));
+`;function zv(){return L.jsxs(B1,{theme:Nv,children:[L.jsxs(Fm,{basename:"/dav-website/",children:[L.jsx(jv,{}),L.jsx(Lv,{})]}),L.jsx(Rv,{})]})}wd(document.getElementById("root")).render(L.jsx(_.StrictMode,{children:L.jsx(zv,{})}));
