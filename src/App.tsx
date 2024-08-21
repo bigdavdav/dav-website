@@ -10,7 +10,7 @@ import { GlobalStyle } from "./styles/global"
 export function App() {
   return (
     <ThemeProvider theme={defaultTheme}>
-      <BrowserRouter>
+      <BrowserRouter basename={import.meta.env.BASE_URL}>
         <ScrollToTop />
         <Router />
       </BrowserRouter>
