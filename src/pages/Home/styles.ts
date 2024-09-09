@@ -13,7 +13,7 @@ export const WelcomeContainer = styled.main`
   color: ${props => props.theme["gray-100"]};
 
   img {
-    height: 48rem;
+    height: 80vh;
     border-radius: 8px;
   }
 
