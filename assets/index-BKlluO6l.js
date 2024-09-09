@@ -155,7 +155,7 @@ Error generating stack: `+l.message+`
   color: ${e=>e.theme["gray-100"]};
 
   img {
-    height: 48rem;
+    height: 80vh;
     border-radius: 8px;
   }
 
